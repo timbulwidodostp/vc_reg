@@ -1,4 +1,24 @@
-D 'testex': Executes a statistical test of the exclusion restriction of an instrumental variable (IV) Use testex With STATA 19
+D 'vc_reg': Commands for the estimation of a smooth varying-coefficient model Use vc_reg and vc_bsreg With STATA 19
 D
-F testex.ado
-F testex.sthlp
+F _gkweight.ado
+F _gvbin.ado
+F _gwberr.ado
+F kweight.sthlp
+F vc_bsreg.ado
+F vc_bsreg.sthlp
+F vc_bw.ado
+F vc_bw.sthlp
+F vc_bwalt.ado
+F vc_bwalt.sthlp
+F vc_graph.ado
+F vc_graph.sthlp
+F vc_pack.sthlp
+F vc_predict.ado
+F vc_predict.sthlp
+F vc_preg.ado
+F vc_preg.sthlp
+F vc_reg.ado
+F vc_reg.sthlp
+F vc_test.ado
+F vc_test.sthlp
+F vt_xtoy.ado
